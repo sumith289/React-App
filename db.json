@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "name": "Sumith kumar",
+      "email": "Sumith@gmail.com",
+      "age": 22,
+      "id": "1"
+    },
+    {
+      "name": "Sumith",
+      "email": "sumithkp9@gmail.com",
+      "age": 25,
+      "id": "2"
+    },
+    {
+      "id": 4,
+      "name": "Sumithk",
+      "email": "Sumith@gmail.com",
+      "age": 24
+    },
+    {
+      "id": 5,
+      "name": "PSK",
+      "email": "Sumith@gmail.com",
+      "age": 24
+    }
+  ]
+}
